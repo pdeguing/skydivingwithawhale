@@ -1,10 +1,8 @@
 +++
-date = '2024-11-03T20:14:49+01:00'
+date = '2024-11-02T20:14:49+01:00'
 draft = false
 title = 'Savoir'
 +++
-
-# Savoir
 
 Toute connaissance n’est que la manifestation de l’ignorance. Connaître quelque chose c’est s’empêcher de le connaître.
 

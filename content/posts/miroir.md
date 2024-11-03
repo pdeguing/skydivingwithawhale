@@ -4,13 +4,13 @@ draft = false
 title = 'Miroir'
 +++
 
-Envie de créer. Osciller entre deux mondes qui paralysent. La frustration ou l’aspiration à créer quelque chose.
+Créer. Osciller entre deux mondes qui paralysent. La frustration ou l’aspiration à créer quelque chose.
 
-L’un empêche l’autre à chaque fois, toujours cette sensation qu’il y a quelque chose que je pourrais être en train de faire et je n’arrive pas à savoir quoi.
+L’un empêche l’autre à chaque fois, toujours cette sensation qu’il y a quelque chose qui pourrait être fait sans savoir quoi.
 
-Comme s’il y avait un moi qui existe et que je n’arrive pas à identifier ni à toucher du doigt.
+Comme s’il y avait un moi qui existe et que l'on n’arrive pas à identifier ni à toucher du doigt.
 
-Il m’appelle comme une voix dans la brume. Mais je ne parviens pas à la suivre. Je ne comprends pas de quelle direction elle vient.
+Il appelle comme une voix dans la brume. Mais je ne parviens pas à la suivre. Je ne comprends pas de quelle direction elle vient.
 
 Il faut regarder dans le miroir du vide plus longtemps. Il faut faire face à cette incompréhension et essayer de se stabiliser face à elle.
 

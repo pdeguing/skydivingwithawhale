@@ -1,7 +1,7 @@
-baseURL = 'https://pdeguing.github.io/skydivingwithawhale/'
-languageCode = 'fr-fr'
-title = 'skydiving with a whale'
-theme = 'hugo-theme-console'
+baseurl = "https://example.com/"
+title = "console-demo"
+theme = "hugo-theme-console"
+languageCode = "en-us"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
@@ -12,8 +12,8 @@ theme = 'hugo-theme-console'
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
-  #name = "about/"
-  #url = "about/"
+  name = "about/"
+  url = "about/"
 
   [[params.navlinks]]
   name = "posts/"
