@@ -1,4 +1,4 @@
 baseURL = 'https://pdeguing.github.io/skydivingwithawhale/'
 languageCode = 'fr-fr'
 title = 'skydiving with a whale'
-theme = 'ananke'
+theme = 'hugo-theme-console'
