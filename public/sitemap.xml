@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/</loc>
+    <loc>http://localhost:1313/skydivingwithawhale/</loc>
     <lastmod>2024-11-05T18:47:32+01:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/posts/maroc/</loc>
+    <loc>http://localhost:1313/skydivingwithawhale/posts/maroc/</loc>
     <lastmod>2024-11-03T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/posts/</loc>
+    <loc>http://localhost:1313/skydivingwithawhale/posts/</loc>
     <lastmod>2024-11-03T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/posts/savoir/</loc>
+    <loc>http://localhost:1313/skydivingwithawhale/posts/savoir/</loc>
     <lastmod>2024-11-02T20:14:49+01:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/posts/miroir/</loc>
+    <loc>http://localhost:1313/skydivingwithawhale/posts/miroir/</loc>
     <lastmod>2024-11-01T20:14:49+01:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/categories/</loc>
+    <loc>http://localhost:1313/skydivingwithawhale/categories/</loc>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/tags/</loc>
+    <loc>http://localhost:1313/skydivingwithawhale/tags/</loc>
   </url>
 </urlset>

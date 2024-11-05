@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on skydiving with a whale</title>
-    <link>https://pdeguing.github.io/skydivingwithawhale/tags/</link>
+    <link>http://localhost:1313/skydivingwithawhale/tags/</link>
     <description>Recent content in Tags on skydiving with a whale</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <atom:link href="https://pdeguing.github.io/skydivingwithawhale/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/skydivingwithawhale/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

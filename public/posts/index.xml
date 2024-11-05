@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on skydiving with a whale</title>
-    <link>https://pdeguing.github.io/skydivingwithawhale/posts/</link>
+    <link>http://localhost:1313/skydivingwithawhale/posts/</link>
     <description>Recent content in Posts on skydiving with a whale</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 03 Nov 2024 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://pdeguing.github.io/skydivingwithawhale/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/skydivingwithawhale/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maroc</title>
-      <link>https://pdeguing.github.io/skydivingwithawhale/posts/maroc/</link>
+      <link>http://localhost:1313/skydivingwithawhale/posts/maroc/</link>
       <pubDate>Sun, 03 Nov 2024 11:00:00 -0700</pubDate>
-      <guid>https://pdeguing.github.io/skydivingwithawhale/posts/maroc/</guid>
+      <guid>http://localhost:1313/skydivingwithawhale/posts/maroc/</guid>
       <description>&lt;p&gt;Quelques jours, quelques photos, beaucoup de sable et de poussière.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;IMG_5800.jpeg&#34; alt=&#34;Photo du Maroc&#34;&gt;&#xA;&lt;img src=&#34;IMG_5850.jpeg&#34; alt=&#34;Photo du Maroc&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Savoir</title>
-      <link>https://pdeguing.github.io/skydivingwithawhale/posts/savoir/</link>
+      <link>http://localhost:1313/skydivingwithawhale/posts/savoir/</link>
       <pubDate>Sat, 02 Nov 2024 20:14:49 +0100</pubDate>
-      <guid>https://pdeguing.github.io/skydivingwithawhale/posts/savoir/</guid>
+      <guid>http://localhost:1313/skydivingwithawhale/posts/savoir/</guid>
       <description>&lt;p&gt;Toute connaissance n’est que la manifestation de l’ignorance. Connaître quelque chose c’est s’empêcher de le connaître.&lt;/p&gt;&#xA;&lt;p&gt;Tout ce qui est « su » est en réalité un masque pour un « non-su ».&lt;/p&gt;&#xA;&lt;p&gt;« Savoir » quelque chose, ce n’est pas en fait le connaître, c’est décider d’arrêter de chercher à le connaître.&lt;/p&gt;&#xA;&lt;p&gt;En fait on « sait » à partir du moment où l’on décide de « savoir », c’est-à-dire qu’on décide de ne pas savoir plus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Miroir</title>
-      <link>https://pdeguing.github.io/skydivingwithawhale/posts/miroir/</link>
+      <link>http://localhost:1313/skydivingwithawhale/posts/miroir/</link>
       <pubDate>Fri, 01 Nov 2024 20:14:49 +0100</pubDate>
-      <guid>https://pdeguing.github.io/skydivingwithawhale/posts/miroir/</guid>
+      <guid>http://localhost:1313/skydivingwithawhale/posts/miroir/</guid>
       <description>&lt;p&gt;Créer. Osciller entre deux mondes qui paralysent. La frustration ou l’aspiration à créer quelque chose.&lt;/p&gt;&#xA;&lt;p&gt;L’un empêche l’autre à chaque fois, toujours cette sensation qu’il y a quelque chose qui pourrait être fait sans savoir quoi.&lt;/p&gt;&#xA;&lt;p&gt;Comme s’il y avait un moi qui existe et que l&amp;rsquo;on n’arrive pas à identifier ni à toucher du doigt.&lt;/p&gt;&#xA;&lt;p&gt;Il appelle comme une voix dans la brume. Mais je ne parviens pas à la suivre. Je ne comprends pas de quelle direction elle vient.&lt;/p&gt;</description>
     </item>
   </channel>
