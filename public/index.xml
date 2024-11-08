@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>skydiving with a whale</title>
-    <link>http://localhost:1313/skydivingwithawhale/</link>
-    <description>Recent content on skydiving with a whale</description>
+    <title>Skydiving with a whale</title>
+    <link>https://pdeguing.github.io/skydivingwithawhale/</link>
+    <description>Recent content on Skydiving with a whale</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 03 Nov 2024 11:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/skydivingwithawhale/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2024 20:14:49 +0100</lastBuildDate>
+    <atom:link href="https://pdeguing.github.io/skydivingwithawhale/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Maroc</title>
-      <link>http://localhost:1313/skydivingwithawhale/posts/maroc/</link>
-      <pubDate>Sun, 03 Nov 2024 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/skydivingwithawhale/posts/maroc/</guid>
-      <description>&lt;p&gt;Quelques jours, quelques photos, beaucoup de sable et de poussière.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;IMG_5800.jpeg&#34; alt=&#34;Photo du Maroc&#34;&gt;&#xA;&lt;img src=&#34;IMG_5850.jpeg&#34; alt=&#34;Photo du Maroc&#34;&gt;&lt;/p&gt;</description>
+      <title>À propos des comètes</title>
+      <link>https://pdeguing.github.io/skydivingwithawhale/posts/savoir/</link>
+      <pubDate>Thu, 17 Oct 2024 20:14:49 +0100</pubDate>
+      <guid>https://pdeguing.github.io/skydivingwithawhale/posts/savoir/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;IMG_4262.jpeg&#34; alt=&#34;Comète&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Toute connaissance n’est que la manifestation de l’ignorance. Connaître quelque chose c’est s’empêcher de le connaître.&lt;/p&gt;&#xA;&lt;p&gt;Tout ce qui est « su » est en réalité un masque pour un « non-su ».&lt;/p&gt;&#xA;&lt;p&gt;« Savoir » quelque chose, ce n’est pas en fait le connaître, c’est décider d’arrêter de chercher à le connaître.&lt;/p&gt;&#xA;&lt;p&gt;En fait on « sait » à partir du moment où l’on décide de « savoir », c’est-à-dire qu’on décide de ne pas savoir plus.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Savoir</title>
-      <link>http://localhost:1313/skydivingwithawhale/posts/savoir/</link>
-      <pubDate>Sat, 02 Nov 2024 20:14:49 +0100</pubDate>
-      <guid>http://localhost:1313/skydivingwithawhale/posts/savoir/</guid>
-      <description>&lt;p&gt;Toute connaissance n’est que la manifestation de l’ignorance. Connaître quelque chose c’est s’empêcher de le connaître.&lt;/p&gt;&#xA;&lt;p&gt;Tout ce qui est « su » est en réalité un masque pour un « non-su ».&lt;/p&gt;&#xA;&lt;p&gt;« Savoir » quelque chose, ce n’est pas en fait le connaître, c’est décider d’arrêter de chercher à le connaître.&lt;/p&gt;&#xA;&lt;p&gt;En fait on « sait » à partir du moment où l’on décide de « savoir », c’est-à-dire qu’on décide de ne pas savoir plus.&lt;/p&gt;</description>
+      <title>De la porte des reflets</title>
+      <link>https://pdeguing.github.io/skydivingwithawhale/posts/miroir/</link>
+      <pubDate>Mon, 14 Oct 2024 20:14:49 +0100</pubDate>
+      <guid>https://pdeguing.github.io/skydivingwithawhale/posts/miroir/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;IMG_5921.jpeg&#34; alt=&#34;Miroir&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Créer. Osciller entre deux mondes qui paralysent. La frustration ou l’aspiration à créer quelque chose.&lt;/p&gt;&#xA;&lt;p&gt;L’un empêche l’autre à chaque fois, toujours cette sensation qu’il y a quelque chose qui pourrait être fait sans savoir quoi.&lt;/p&gt;&#xA;&lt;p&gt;Comme s’il y avait un moi qui existe et que l&amp;rsquo;on n’arrive pas à identifier ni à toucher du doigt.&lt;/p&gt;&#xA;&lt;p&gt;Il appelle comme une voix dans la brume. Mais je ne parviens pas à la suivre. Je ne comprends pas de quelle direction elle vient.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Miroir</title>
-      <link>http://localhost:1313/skydivingwithawhale/posts/miroir/</link>
-      <pubDate>Fri, 01 Nov 2024 20:14:49 +0100</pubDate>
-      <guid>http://localhost:1313/skydivingwithawhale/posts/miroir/</guid>
-      <description>&lt;p&gt;Créer. Osciller entre deux mondes qui paralysent. La frustration ou l’aspiration à créer quelque chose.&lt;/p&gt;&#xA;&lt;p&gt;L’un empêche l’autre à chaque fois, toujours cette sensation qu’il y a quelque chose qui pourrait être fait sans savoir quoi.&lt;/p&gt;&#xA;&lt;p&gt;Comme s’il y avait un moi qui existe et que l&amp;rsquo;on n’arrive pas à identifier ni à toucher du doigt.&lt;/p&gt;&#xA;&lt;p&gt;Il appelle comme une voix dans la brume. Mais je ne parviens pas à la suivre. Je ne comprends pas de quelle direction elle vient.&lt;/p&gt;</description>
+      <title>About</title>
+      <link>https://pdeguing.github.io/skydivingwithawhale/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://pdeguing.github.io/skydivingwithawhale/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,18 +1,18 @@
 baseURL = 'https://pdeguing.github.io/skydivingwithawhale/'
 languageCode = 'fr-fr'
-title = 'skydiving with a whale'
-
-[[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
-
-[[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
-weight = 20
+title = 'Skydiving with a whale'
+theme = 'paper'
 
 [module]
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
+
+# ------------------------------
+theme = "hugo-paper"
+
+[params]
+  color = 'linen'         # linen, wheat, gray, light
+  monoDarkIcon = true
+
+# ------------------------------

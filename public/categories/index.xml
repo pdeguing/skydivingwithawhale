@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on skydiving with a whale</title>
-    <link>http://localhost:1313/skydivingwithawhale/categories/</link>
-    <description>Recent content in Categories on skydiving with a whale</description>
+    <title>Categories on Skydiving with a whale</title>
+    <link>https://pdeguing.github.io/skydivingwithawhale/categories/</link>
+    <description>Recent content in Categories on Skydiving with a whale</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <atom:link href="http://localhost:1313/skydivingwithawhale/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pdeguing.github.io/skydivingwithawhale/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
