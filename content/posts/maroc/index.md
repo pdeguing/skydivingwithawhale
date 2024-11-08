@@ -1,7 +1,7 @@
 +++
 title = 'Ensablé au Maroc'
 date = 2024-11-03T11:00:00-07:00
-draft = true
+draft = false
 +++
 
 Quelques jours, du sable, et de la poussière.
