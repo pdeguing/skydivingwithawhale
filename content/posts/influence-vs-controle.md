@@ -1,6 +1,6 @@
 +++
 date = '2024-12-15T14:17:45+01:00'
-draft = true
+draft = false
 title = 'Influence versus Contrôle, émergence du fondamentalisme'
 +++
 
