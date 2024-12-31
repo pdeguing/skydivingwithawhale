@@ -1,9 +1,1 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "hugo-theme-console"]
-	path = hugo-theme-console
-	url = https://github.com/mrmierzejewski/hugo-theme-console.git
-[submodule "themes/paper"]
-	path = themes/paper
-	url = https://github.com/nanxiaobei/hugo-paper
+

@@ -1,18 +1,38 @@
-baseURL = 'https://pdeguing.github.io/skydivingwithawhale/'
+baseURL = 'https://skydivingwithawhale.com/'
 languageCode = 'fr-fr'
-title = 'Skydiving with a whale'
-theme = 'paper'
-
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.116.0"
+title = 'skydiving with a whale'
 
 # ------------------------------
-theme = "hugo-paper"
+theme = "paper"
 
 [params]
-  color = 'linen'         # linen, wheat, gray, light
-  monoDarkIcon = true
+color = 'linen' # linen, wheat, gray, light
+
+# header social icons
+twitter = 'pdeguing' # twitter.com/YOUR_TWITTER_ID
+github = 'pdeguing'  # github.com/YOUR_GITHUB_ID
+#instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+#linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
+#mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+#threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
+#bluesky = 'YOUR_BLUESKY_ID'               # https://bsky.app/profile/YOUR_BLUESKY_ID
+#rss = true                                # show rss icon
+
+
+# home page profile
+avatar = 'https://www.gravatar.com/avatar/ef333c1203724d1cb48104b2679529bb?s=160&d=identicon' # gravatar email or image url
+name = 'PQ'
+bio = 'Think.'
+
+# misc
+disableHLJS = true                       # disable highlight.js
+disablePostNavigation = true             # disable post navigation
+monoDarkIcon = true                      # show monochrome dark mode icon
+gravatarCdn = 'GRAVATAR_CDN_LINK'        # e.g. 'https://cdn.v2ex.com/gravatar/'
+math = true                              # enable KaTeX math typesetting globally
+localKatex = false                       # use local KaTeX js/css instead of CDN
+graphCommentId = "YOUR_GRAPH_COMMENT_ID" # use graph comment (disqus alternative)
+favicon = "favicon.ico"                  # customize the default favicon
+appleTouchIcon = "apple-touch-icon.png"  # customize the default Apple touch icon
 
 # ------------------------------

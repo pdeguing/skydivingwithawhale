@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/</loc>
+    <loc>https://skydivingwithawhale.com/posts/influence-vs-controle/</loc>
+    <lastmod>2024-12-15T14:17:45+01:00</lastmod>
+  </url><url>
+    <loc>https://skydivingwithawhale.com/posts/</loc>
+    <lastmod>2024-12-15T14:17:45+01:00</lastmod>
+  </url><url>
+    <loc>https://skydivingwithawhale.com/</loc>
     <lastmod>2024-11-05T18:47:32+01:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/posts/</loc>
+    <loc>https://skydivingwithawhale.com/posts/maroc/</loc>
     <lastmod>2024-11-03T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/posts/savoir/</loc>
+    <loc>https://skydivingwithawhale.com/posts/savoir/</loc>
     <lastmod>2024-10-17T20:14:49+01:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/posts/miroir/</loc>
+    <loc>https://skydivingwithawhale.com/posts/miroir/</loc>
     <lastmod>2024-10-14T20:14:49+01:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/about/</loc>
+    <loc>https://skydivingwithawhale.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/categories/</loc>
+    <loc>https://skydivingwithawhale.com/categories/</loc>
   </url><url>
-    <loc>https://pdeguing.github.io/skydivingwithawhale/tags/</loc>
+    <loc>https://skydivingwithawhale.com/tags/</loc>
   </url>
 </urlset>
