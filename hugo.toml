@@ -10,14 +10,14 @@ defaultContentLanguageInSubdir = true
 [languages.fr]
 contentDir = 'content/fr'
 disabled = false
-languageCode = 'fr-fr'
+languageCode = 'fr'
 languageDirection = 'ltr'
 languageName = 'Français'
 weight = 1
 [languages.en]
 contentDir = 'content/en'
 disabled = false
-languageCode = 'en-us'
+languageCode = 'en'
 languageDirection = 'ltr'
 languageName = 'English'
 weight = 2

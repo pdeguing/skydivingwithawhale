@@ -9,12 +9,12 @@
     <lastmod>2024-12-15T14:17:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="http://localhost:1313/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
+                hreflang="fr"
                 href="http://localhost:1313/fr/post/"
                 />
   </url><url>
@@ -22,12 +22,12 @@
     <lastmod>2024-12-15T14:17:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
+                hreflang="fr"
                 href="http://localhost:1313/fr/"
                 />
   </url><url>
@@ -43,24 +43,24 @@
     <loc>http://localhost:1313/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
+                hreflang="fr"
                 href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
+                hreflang="fr"
                 href="http://localhost:1313/fr/tags/"
                 />
   </url>
